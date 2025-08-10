@@ -83,10 +83,13 @@ To run an experiment, execute the desired Python script from your terminal. Make
 **Example:**
 
 \# To run the binary classification experiment on the METU dataset  
-python train\_binary\_classifier.py
+python train\METU\main.py
 
-\# To run the multi-class classification experiment on the SDNET2018 dataset  
-python train\_multiclass\_classifier.py
+\# To run the binary classification experiment on the SDNET2018 dataset  
+python train\SDNET2018\main.py
+
+\# To run the binary classification experiment on the METU+SDNET2018 dataset  
+python train\SDNET2018\main.py
 
 The scripts will preprocess the data, build the model, train it, and save the evaluation results and plots in the Models/ directory.
 
@@ -101,4 +104,3 @@ If you use this code or the findings from our paper in your research, please cit
     journal={IEEE Transactions on Intelligent Transportation Systems},  
 }
 
-*(Please update the year and journal details as appropriate)*
