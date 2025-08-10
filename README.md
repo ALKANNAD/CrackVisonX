@@ -4,7 +4,7 @@ This repository contains the official implementation for the paper **"CrackVisio
 
 ## **Overview**
 
-Automated crack detection is critical for maintaining the safety and integrity of concrete infrastructure. CrackVisionX is a state-of-the-art framework that integrates advanced CNN architectures—**ResNet50**, **MobileNet\_v3\_large**, **DenseNet121**, and **EfficientNetB0**—to optimize crack detection accuracy while maintaining low model complexity. The framework introduces a robust data augmentation strategy to address dataset imbalances and employs comprehensive preprocessing on the METU and SDNET2018 datasets. The models were evaluated across six distinct domains, with the EfficientNetB0 architecture demonstrating superior performance, achieving a peak accuracy of **99.98%**.
+Automated crack detection is critical for maintaining the safety and integrity of concrete infrastructure. CrackVisionX is a state-of-the-art framework that integrates advanced CNN architectures **ResNet50**, **MobileNet\_v3\_large**, **DenseNet121**, and **EfficientNetB0** to optimize crack detection accuracy while maintaining low model complexity. The framework introduces a robust data augmentation strategy to address dataset imbalances and employs comprehensive preprocessing on the METU and SDNET2018 datasets. The models were evaluated across six distinct domains, with the EfficientNetB0 architecture demonstrating superior performance, achieving a peak accuracy of **99.98%**.
 
 ## **Publication**
 
