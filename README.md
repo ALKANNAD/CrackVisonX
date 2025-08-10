@@ -11,8 +11,8 @@ Automated crack detection is critical for maintaining the safety and integrity o
 The work in this repository is detailed in the following paper:
 
 * **Title:** CrackVisionX: A Fine-Tuned Framework for Efficient Binary Concrete Crack Detection  
-* **Authors:** Abdulrahman A. ALKannad, Ahmad AL Smadi, Moeen AL-Makhlafi, Shuyuan Yang, and Zhixi Feng.  
-* **PDF:** A copy of the paper, CrackVisionX\_A\_Fine-Tuned\_Framework\_for\_Efficient\_Binary\_Concrete\_Crack\_Detection.pdf, is included in this repository.  
+* **Authors:** Abdulrahman A. ALKannad, Ahmad AL Smadi, Moeen AL-Makhlafi, Shuyuan Yang, and Zhixi Feng.
+* **Link : https://ieeexplore.ieee.org/document/10959054
 * **GitHub Repository:** [https://github.com/ALKANNAD/CrackVisonX](https://www.google.com/search?q=https://github.com/ALKANNAD/CrackVisonX)
 
 ## **Models and Results**
