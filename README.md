@@ -12,7 +12,7 @@ The work in this repository is detailed in the following paper:
 
 * **Title:** CrackVisionX: A Fine-Tuned Framework for Efficient Binary Concrete Crack Detection  
 * **Authors:** Abdulrahman A. ALKannad, Ahmad AL Smadi, Moeen AL-Makhlafi, Shuyuan Yang, and Zhixi Feng.
-* **Link : https://ieeexplore.ieee.org/document/10959054
+* **Link :**  https://ieeexplore.ieee.org/document/10959054
 * **GitHub Repository:** [https://github.com/ALKANNAD/CrackVisonX](https://www.google.com/search?q=https://github.com/ALKANNAD/CrackVisonX)
 
 ## **Models and Results**
